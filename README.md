@@ -1,2 +1,3 @@
 # Spotify-Clone
-Frontend Project .
+Frontend Project
+Build with the helo of HTML and CSS.
